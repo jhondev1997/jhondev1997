@@ -1,28 +1,28 @@
 # Bienvenido a mi perfil de LinkedIn 👋
 
-¡Hola! Soy [Tu Nombre], un apasionado programador web con experiencia en el desarrollo de aplicaciones modernas. Mi enfoque principal se centra en tecnologías como React, Laravel, Astro e Inertia. A lo largo de mi carrera, he trabajado en proyectos diversos que van desde aplicaciones web dinámicas hasta plataformas robustas.
+¡Hola! Soy Jhon Cruz, un apasionado programador web con experiencia en el desarrollo de aplicaciones modernas. Mi enfoque principal se centra en tecnologías como React, Laravel, Astro e Inertia. A lo largo de mi carrera, he trabajado en proyectos diversos que van desde aplicaciones web dinámicas hasta aplicaciones centradas.
 
 ## 💼 Experiencia Profesional
 
-### [Nombre de la Empresa] - [Cargo]
-[Fecha de inicio] - [Fecha de finalización (si aplica)]
+### Intituto Médico de la Mujer - Programador Web
+2022 - 2024
 
-En mi rol en [Nombre de la Empresa], tuve la oportunidad de liderar el desarrollo de [descripción breve del proyecto], utilizando React para la interfaz de usuario y Laravel para el backend. Además, implementé la arquitectura de Inertia para mejorar la eficiencia y la experiencia del usuario.
+En mi rol en IMM, tuve la oportunidad de liderar el desarrollo de proyectos para solucionar problemas generales y puntuales, utilizando React para la interfaz de usuario y Laravel para el backend. Además, implementé la arquitectura de Inertia para mejorar la eficiencia y la experiencia del usuario.
 
-### [Otra Empresa] - [Otro Cargo]
-[Fecha de inicio] - [Fecha de finalización (si aplica)]
+### BlackBoard Collaborate 
+2021
 
-Durante mi tiempo en [Otra Empresa], trabajé en la implementación de [descripción breve del proyecto], donde utilicé Astro para mejorar el rendimiento y la carga de la aplicación. También contribuí al desarrollo de características clave utilizando React y colaboré estrechamente con el equipo para garantizar la entrega exitosa del proyecto.
+Durante mi tiempo de practicas, trabajé en el desarrollo de partes del front-end con javascript puro, con el fin de mejorar el rendimiento y la carga de la aplicación. También contribuí al desarrollo de características clave utilizando React.
 
 ## 🚀 Tecnologías
 
 - **Frontend**: React, Inertia
-- **Backend**: Laravel
+- **Backend**: Laravel, Node, Express
 - **Estatic Site Generator**: Astro
 
 ## 📚 Educación
 
-- [Nombre de la Universidad] - [Grado obtenido] - [Fecha de graduación]
+- Pedro Ruiz Gallo - Bachiller - 2021
 
 ## 🌐 Enlaces y Proyectos Destacados
 
@@ -32,7 +32,6 @@ Durante mi tiempo en [Otra Empresa], trabajé en la implementación de [descripc
 ## 👨‍💻 Habilidades
 
 - Desarrollo de Aplicaciones Web
-- Diseño de Interfaces de Usuario
 - Desarrollo Frontend y Backend
 - Colaboración en Equipo
 - Resolución de Problemas
